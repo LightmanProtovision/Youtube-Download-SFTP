@@ -8,6 +8,6 @@ I developed a web app that stores all of my music from different sources (Spotif
  * paramiko 
  
 ## Installation : 
- *1 Download and extract the archive in your home directory
- *2 Edit the first lines in main.py with your information
- *3 Execute main.py
+ * Download and extract the archive in your home directory
+ * Edit the first lines in main.py with your information
+ * Execute main.py
